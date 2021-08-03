@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spinner3</string>
+    <string name="escolha_pais">Escolha um Pais</string>
+    <string name="mostrar_pais_selecionado">Mostrar  pais selecionado</string>
+
+    <string name="angola">Angola</string>
+    <string name="brasil">Brasil</string>
+    <string name="cabo_verde">Cabo Verde</string>
+    <string name="guine_bissau">Guiné Bissau</string>
+    <string name="guine_equatorial">Guiné Equatorial</string>
+    <string name="macau">Macau</string>
+    <string name="mocambique">Moçambique</string>
+    <string name="portugal">Portugal</string>
+    <string name="sao_tome_e_principe">São Tomé e Príncipe</string>
+    <string name="timor_leste">Timor Leste</string>
+    <string name="o_pais_foi_selecionado">"O País \"%s\" foi selecionado!"</string>
+
+</resources>
